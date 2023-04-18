@@ -1,0 +1,10 @@
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\bin\Debug\Lab3Service.exe.config
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\bin\Debug\Lab3Service.exe
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\bin\Debug\Lab3Service.pdb
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\obj\Debug\Lab3Service.csproj.AssemblyReference.cache
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\obj\Debug\Lab3Service.csproj.SuggestedBindingRedirects.cache
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\obj\Debug\Lab3Service.ProjectInstaller.resources
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\obj\Debug\Lab3Service.csproj.GenerateResource.cache
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\obj\Debug\Lab3Service.csproj.CoreCompileInputs.cache
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\obj\Debug\Lab3Service.exe
+D:\UIT\MaDoc\Lab3\Lab3Service\Lab3Service\obj\Debug\Lab3Service.pdb
